@@ -28,6 +28,16 @@ $ npm install
 " target="_blank"><img src="http://img.youtube.com/vi/r0QYP61bCCM/0.jpg" 
 alt="Video Tutorial for MEAN Stack Login and Logout" width="500" height="400" border="10" /></a>
 
+## Related MEAN Stack Tutorial in Order
+1. CRUD Operation  
+    Insert Update View and Delete : https://goo.gl/LbQ4BM
+2. User Registration <br/>
+    Node JS Back End : https://goo.gl/CMnPwe  <br/>
+    Angular 6 Front End : https://goo.gl/xivk4x <br/>
+3. JWT Authentication <br/>
+    Node JS Back End  : http://bit.ly/31FKEF6 [_This One_]  
+    Angular Front End : http://bit.ly/2z6PmQ5
+
 
 | :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
 |--------------------------:|:---------------------|---|---------------------:|:-------------------------------------|
