@@ -35,7 +35,7 @@ alt="Video Tutorial for MEAN Stack Login and Logout" width="500" height="400" bo
     Node JS Back End : https://goo.gl/CMnPwe  <br/>
     Angular 6 Front End : https://goo.gl/xivk4x <br/>
 3. JWT Authentication <br/>
-    Node JS Back End  : http://bit.ly/31FKEF6 
+    Node JS Back End  : http://bit.ly/31FKEF6   
     Angular Front End : http://bit.ly/2z6PmQ5 [_This One_]  
 
 
